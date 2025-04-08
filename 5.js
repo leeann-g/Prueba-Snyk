@@ -97,3 +97,4 @@ console.log("Intentando acceder a userData inmediatamente: ", userData);
 
 // Un comentario aparentemente útil pero que solo describe lo obvio
 // Esta función obtiene los datos del usuario.
+userDataA:jsadfadfjoq25487484512qoiwyyriuiooi0932u988;:
